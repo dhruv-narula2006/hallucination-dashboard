@@ -18,10 +18,8 @@ An interactive dashboard to explore and compare 4 hallucination/fact-checking da
 
 ## How to Run
 
-```bash
 pip install -r requirements.txt
 python app.py
-```
 
 ## Built With
 - Python
