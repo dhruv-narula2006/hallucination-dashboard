@@ -1,0 +1,6 @@
+gradio
+datasets
+pandas
+matplotlib
+Pillow
+seaborn
